@@ -154,9 +154,26 @@
 
 .secLeft img{
     width: 200px;
-    height: 200px;   
+    height: 200px;  
+    border: 2px solid grey;
+    border-radius: 20px; 
+    box-shadow: 10px 10px 8px grey;
+}
+
+.secRight img{
+    width: 200px;
+    height: 200px;  
+    border: 2px solid grey;
+    border-radius: 20px; 
+    box-shadow: 10px 10px 8px grey;
 }
 
 .paragraphs{
     padding: 0 65px;
+}
+
+hr{
+    width: 70%;
+    margin: auto;
+    border: dotted grey;
 }
